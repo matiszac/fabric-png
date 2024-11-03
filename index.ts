@@ -1,0 +1,1 @@
+export { default as FabrikPng } from './src/FabricPng';
